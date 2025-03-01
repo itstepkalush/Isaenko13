@@ -23,6 +23,7 @@ nav {
 
 .content {
     padding: 20px;
+    display: flex;
 }
 
 footer {
@@ -36,9 +37,6 @@ footer {
 .content img{
     height: 300px;
     width: 400px;
-}
-.content{
-    display: flex;
 }
 .content_inde{
     height: auto;
